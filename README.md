@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/omar-aboalola/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Oe.aboalola@gmail.com">
