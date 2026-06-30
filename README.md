@@ -4,7 +4,6 @@ LLM/AI Engineer based in Giza, Egypt, focused on building practical, deployable 
 
 I recently graduated with a BSc in Computer Science (Data Science minor) from the Canadian International College, and co-authored a paper on automated Arabic legal judgment prediction, presented at AMLTA 2025 (Springer Proceedings).
 
-Currently deepening my LLM fundamentals by working through *Hands-On Large Language Models*, and documenting my notes here as I go.
 
 ---
 
