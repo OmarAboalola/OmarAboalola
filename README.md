@@ -83,19 +83,7 @@
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarAboalola&theme=tokyonight"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarAboalola&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=OmarAboalola&theme=tokyonight"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=OmarAboalola&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAboalola&theme=tokyo-night"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarAboalola&theme=tokyonight"/>
 </div>
 
 ---
