@@ -21,4 +21,4 @@ Currently deepening my LLM fundamentals by working through *Hands-On Large Langu
 
 ---
 
-📫 Reach me on [LinkedIn](#) · Oe.aboalola@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/omar-aboalola/) · Oe.aboalola@gmail.com
