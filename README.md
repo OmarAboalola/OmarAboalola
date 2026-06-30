@@ -1,6 +1,6 @@
 ### Hi, I'm Omar Aboalola 👋
 
-LLM/AI Engineer based in Giza, Egypt, focused on building practical, deployable systems around RAG, retrieval, and document intelligence — mostly for Arabic-language and low-resource use cases.
+LLM/AI Engineer based in Giza, Egypt, focused on building practical, deployable systems around RAG, retrieval, and document intelligence — for both   Arabic/English -languages and low-resource use cases.
 
 I recently graduated with a BSc in Computer Science (Data Science minor) from the Canadian International College, and co-authored a paper on automated Arabic legal judgment prediction, presented at AMLTA 2025 (Springer Proceedings).
 
