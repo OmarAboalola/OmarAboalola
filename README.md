@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLM+%2F+AI+Engineer;RAG+%26+Document+Intelligence;Arabic+NLP+Specialist;Published+Researcher+%F0%9F%93%84"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLM+%2F+AI+Engineer;RAG+%26+Document+Intelligence;Building+RAG+Applications;Published+Researcher+%F0%9F%93%84"/>
 </div>
 
 <br/>
