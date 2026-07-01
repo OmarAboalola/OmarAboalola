@@ -27,7 +27,6 @@
 
 - 🎓 BSc Computer Science (Data Science minor) — Canadian International College, 2025
 - 📄 Published paper at **AMLTA 2025** (Springer): *"Monsif: Automated Arabic Legal Judgment Prediction System for Egyptian Criminal Law"*
-- 🔭 Currently working through **Hands-On Large Language Models** and [documenting my notes](https://github.com/OmarAboalola/hands-on-llms-notes-)
 - 🌍 Based in Giza, Egypt — focused on Arabic-language AI and low-resource NLP
 - 🏫 Taught Python, Java & ML to 70+ students across Coach Academy, Udacity, and I School
 
