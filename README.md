@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Omar%20Aboalola&fontSize=68&fontColor=FFFFFF&fontAlignY=35&stroke=00D4FF&strokeWidth=1&desc=LLM%20%2F%20AI%20Engineer%20%7C%20RAG%20%26%20Document%20Intelligence%20%7C%20Arabic%20NLP&descSize=17&descAlignY=56&descAlign=50&descColor=D8D8FF&animation=fadeIn" width="100%"/>
 
+<h1>Omar Aboalola</h1>
+
+<h3>LLM / AI Engineer · RAG · Document Intelligence · Arabic NLP</h3>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnV6aHA1MWJ5N3QwcDBoOWJtNDI5bm15NGdiMHAwejRhaWY1aDZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MKorKFj0Muz4P0CI7D/giphy.gif" width="500"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/omar-aboalola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Oe.aboalola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -29,7 +35,7 @@ research:  Published @ AMLTA 2025 (Springer)
             System for Egyptian Criminal Law"
 location:  Giza, Egypt 🇪🇬
 teaching:  Python · Java · ML — 70+ students (Coach Academy, Udacity, iSchool)
-currently: Interested in LLMS & Building RAG pipelines and Chatbots
+currently: Interested in LLMs and building RAG pipelines and chatbots
 ```
 
 <br/>
@@ -38,7 +44,7 @@ currently: Interested in LLMS & Building RAG pipelines and Chatbots
 
 ### 🤖 Monsif — Arabic Legal AI Assistant
 
-Full-stack legal-AI system for Egyptian criminal law: predicts judgment outcomes with **80% accuracy** across **170+ cases**, backed by a RAG chatbot that retrieves and explains relevant statutes via FAISS semantic search.
+Full-stack legal AI system for Egyptian criminal law that predicts judgment outcomes with **80% accuracy** across **170+ cases**, backed by a RAG chatbot that retrieves and explains relevant statutes using FAISS semantic search.
 
 **Stack:** Python · FastAPI · FAISS · LangChain · Arabic NLP
 
@@ -55,30 +61,39 @@ Full-stack legal-AI system for Egyptian criminal law: predicts judgment outcomes
 <td width="50%" valign="top">
 
 **🩺 [Military Medical Exemption RAG](https://github.com/OmarAboalola/Military-Medical-Exemption-RAG)**
+
 Arabic RAG system that checks medical-exemption eligibility against official military health regulations.
+
 `Python` `RAG` `Arabic NLP`
 
 </td>
 <td width="50%" valign="top">
 
 **💬 [ALLaM Modern Chatbot](https://github.com/OmarAboalola/Allam-modern-chatbot)**
-Fully local desktop chatbot for ALLaM-7B — streaming responses, multi-user sessions via SQLite, zero network calls.
+
+Fully local desktop chatbot for ALLaM-7B with streaming responses, multi-user sessions using SQLite, and zero network calls.
+
 `Python` `SQLite` `LLM`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 **📚 [Hands-On LLMs — Study Notes](https://github.com/OmarAboalola/hands-on-llms-notes-)**
-Working notes (handwritten + markdown) from *Hands-On Large Language Models*.
+
+Working handwritten and Markdown notes from *Hands-On Large Language Models*.
+
 `Notes` `LLM Theory`
 
 </td>
 <td width="50%" valign="top">
 
 **📄 [Monsif Paper — AMLTA 2025](https://github.com/OmarAboalola)**
+
 Springer-published research on automated Arabic legal judgment prediction.
+
 `Research` `NLP` `Legal AI`
 
 </td>
@@ -94,24 +109,31 @@ Springer-published research on automated Arabic legal judgment prediction.
 <div align="center">
 
 **Languages**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
 
 <br/><br/>
 
 **LLM & AI**
+
 <br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-7B2FBE?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00d4ff?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00D4FF?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4C6A?style=for-the-badge&logoColor=white)
 
 <br/><br/>
 
 **Frameworks & Tools**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=fastapi,sqlite,git,github,vscode&theme=dark" />
+
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 </div>
@@ -137,7 +159,9 @@ Springer-published research on automated Arabic legal judgment prediction.
 
 <div align="center">
 
-I'm always open to conversations about **RAG systems, Arabic NLP, or legal/medical AI applications**.
+I'm always open to conversations about **RAG systems, Arabic NLP, and legal or medical AI applications**.
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/omar-aboalola/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Oe.aboalola@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
