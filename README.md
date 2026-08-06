@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Omar%20Aboalola&fontSize=68&fontColor=FFFFFF&fontAlignY=35&stroke=00D4FF&strokeWidth=1&desc=LLM%20%2F%20AI%20Engineer%20%7C%20RAG%20%7C%20LangChain&descSize=17&descAlignY=56&descAlign=50&descColor=D8D8FF&animation=fadeIn" width="100%"/>
 
-<h3>LLM / AI Engineer · RAG · Document Intelligence · Arabic NLP</h3>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnV6aHA1MWJ5N3QwcDBoOWJtNDI5bm15NGdiMHAwejRhaWY1aDZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MKorKFj0Muz4P0CI7D/giphy.gif" width="500"/>
 
