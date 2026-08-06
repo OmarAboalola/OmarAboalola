@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Omar%20Aboalola&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=LLM%20Engineer%20%7C%20RAG%20%26%20Document%20Intelligence%20%7C%20Arabic%20NLP&descAlignY=55&descAlign=50&descColor=B8B8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Omar%20Aboalola&fontSize=68&fontColor=FFFFFF&fontAlignY=35&stroke=00D4FF&strokeWidth=1&desc=LLM%20%2F%20AI%20Engineer%20%7C%20RAG%20%26%20Document%20Intelligence%20%7C%20Arabic%20NLP&descSize=17&descAlignY=56&descAlign=50&descColor=D8D8FF&animation=fadeIn" width="100%"/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnV6aHA1MWJ5N3QwcDBoOWJtNDI5bm15NGdiMHAwejRhaWY1aDZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MKorKFj0Muz4P0CI7D/giphy.gif" width="500"/>
 
@@ -29,7 +29,7 @@ research:  Published @ AMLTA 2025 (Springer)
             System for Egyptian Criminal Law"
 location:  Giza, Egypt 🇪🇬
 teaching:  Python · Java · ML — 70+ students (Coach Academy, Udacity, iSchool)
-currently: Interested in LLMS & Building RAG pipelines , Chatbots
+currently: Interested in LLMS & Building RAG pipelines and Chatbots
 ```
 
 <br/>
