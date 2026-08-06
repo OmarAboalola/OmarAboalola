@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Omar%20Aboalola&fontSize=68&fontColor=FFFFFF&fontAlignY=35&stroke=00D4FF&strokeWidth=1&desc=LLM%20%2F%20AI%20Engineer%20%7C%20RAG%20%26%20Document%20Intelligence%20%7C%20Arabic%20NLP&descSize=17&descAlignY=56&descAlign=50&descColor=D8D8FF&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Omar%20Aboalola&fontSize=68&fontColor=FFFFFF&fontAlignY=35&stroke=00D4FF&strokeWidth=1&desc=LLM%20%2F%20AI%20Engineer%20%7C%20RAG%20%7C%20LangChain&descSize=17&descAlignY=56&descAlign=50&descColor=D8D8FF&animation=fadeIn" width="100%"/>
 <h1>Omar Aboalola</h1>
 
 <h3>LLM / AI Engineer · RAG · Document Intelligence · Arabic NLP</h3>
