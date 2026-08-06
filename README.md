@@ -37,10 +37,6 @@ currently: Building RAG pipelines that make Arabic legal & medical
 
 ## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### 🤖 Monsif — Arabic Legal AI Assistant
 
 Full-stack legal-AI system for Egyptian criminal law: predicts judgment outcomes with **80% accuracy** across **170+ cases**, backed by a RAG chatbot that retrieves and explains relevant statutes via FAISS semantic search.
@@ -48,15 +44,6 @@ Full-stack legal-AI system for Egyptian criminal law: predicts judgment outcomes
 **Stack:** Python · FastAPI · FAISS · LangChain · Arabic NLP
 
 <a href="https://github.com/OmarAboalola"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/OmarAboalola/OmarAboalola/main/assets/monsif-preview.png" width="100%" alt="Monsif preview" onerror="this.style.display='none'"/>
-</td>
-</tr>
-</table>
-
-> 💡 *Tip: swap the image above for a real screenshot or diagram of Monsif — drop it at `assets/monsif-preview.png` in this repo. See the mockup below for what a nicer visual could look like.*
 
 <br/>
 
