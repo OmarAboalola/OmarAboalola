@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+production+RAG+systems;Arabic+%2F+low-resource+NLP;Published+Researcher+%40+AMLTA+2025;Turning+legal+documents+into+intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+production+RAG+systems;AI Engineer;Published+Researcher+%40+AMLTA+2025" />
 
 </div>
 
