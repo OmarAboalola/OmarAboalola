@@ -1,92 +1,163 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7B2FBE&height=200&section=header&text=Omar%20Aboalola&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20/%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLM+%2F+AI+Engineer;RAG+%26+Document+Intelligence;Building+RAG+Applications;Published+Researcher+%F0%9F%93%84"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Omar%20Aboalola&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=LLM%20Engineer%20%7C%20RAG%20%26%20Document%20Intelligence%20%7C%20Arabic%20NLP&descAlignY=55&descAlign=50&descColor=B8B8FF" width="100%"/>
 
-<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnV6aHA1MWJ5N3QwcDBoOWJtNDI5bm15NGdiMHAwejRhaWY1aDZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MKorKFj0Muz4P0CI7D/giphy.gif" width="500"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/omar-aboalola/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Oe.aboalola@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/OmarAboalola">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=OmarAboalola&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/omar-aboalola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Oe.aboalola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/OmarAboalola"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=OmarAboalola&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+production+RAG+systems;Arabic+%2F+low-resource+NLP;Published+Researcher+%40+AMLTA+2025;Turning+legal+documents+into+intelligence" />
+
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-- 🎓 BSc Computer Science (Data Science minor) — Canadian International College, 2025
-- 📄 Published paper at **AMLTA 2025** (Springer): *"Monsif: Automated Arabic Legal Judgment Prediction System for Egyptian Criminal Law"*
-- 🌍 Based in Giza, Egypt — focused on Arabic-language AI and low-resource NLP
-- 🏫 Taught Python, Java & ML to 70+ students across Coach Academy, Udacity, and I School
+```yaml
+name:      Omar Aboalola
+role:      LLM / AI Engineer
+focus:     RAG systems · Document intelligence · Arabic NLP
+education: BSc Computer Science (Data Science minor), CIC — 2025
+research:  Published @ AMLTA 2025 (Springer)
+           "Monsif: Automated Arabic Legal Judgment Prediction
+            System for Egyptian Criminal Law"
+location:  Giza, Egypt 🇪🇬
+teaching:  Python · Java · ML — 70+ students (Coach Academy, Udacity, iSchool)
+currently: Building RAG pipelines that make Arabic legal & medical
+           documents searchable, structured, and explainable
+```
 
----
+<br/>
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🤖 Monsif — Arabic Legal AI Assistant
+
+Full-stack legal-AI system for Egyptian criminal law: predicts judgment outcomes with **80% accuracy** across **170+ cases**, backed by a RAG chatbot that retrieves and explains relevant statutes via FAISS semantic search.
+
+**Stack:** Python · FastAPI · FAISS · LangChain · Arabic NLP
+
+<a href="https://github.com/OmarAboalola"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/OmarAboalola/OmarAboalola/main/assets/monsif-preview.png" width="100%" alt="Monsif preview" onerror="this.style.display='none'"/>
+</td>
+</tr>
+</table>
+
+> 💡 *Tip: swap the image above for a real screenshot or diagram of Monsif — drop it at `assets/monsif-preview.png` in this repo. See the mockup below for what a nicer visual could look like.*
+
+<br/>
+
+## 📂 More Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 [Military Medical Exemption RAG](https://github.com/OmarAboalola/Military-Medical-Exemption-RAG)**
+Arabic RAG system that checks medical-exemption eligibility against official military health regulations.
+`Python` `RAG` `Arabic NLP`
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [ALLaM Modern Chatbot](https://github.com/OmarAboalola/Allam-modern-chatbot)**
+Fully local desktop chatbot for ALLaM-7B — streaming responses, multi-user sessions via SQLite, zero network calls.
+`Python` `SQLite` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📚 [Hands-On LLMs — Study Notes](https://github.com/OmarAboalola/hands-on-llms-notes-)**
+Working notes (handwritten + markdown) from *Hands-On Large Language Models*.
+`Notes` `LLM Theory`
+
+</td>
+<td width="50%" valign="top">
+
+**📄 [Monsif Paper — AMLTA 2025](https://github.com/OmarAboalola)**
+Springer-published research on automated Arabic legal judgment prediction.
+`Research` `NLP` `Legal AI`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-<div align="center">
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br/><br/>
 
-</div>
-
-**LLMs & AI**
-<div align="center">
-
+**LLM & AI**
+<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-7B2FBE?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00d4ff?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4C6A?style=for-the-badge&logoColor=white)
 
-</div>
+<br/><br/>
 
 **Frameworks & Tools**
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite,git,github,vscode&theme=dark" />
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
-
-## 🚀 Projects
-
-| Project | Description |
-|---|---|
-| 🤖 [Monsif AI Legal Assistant](https://github.com/OmarAboalola) | Full-stack Arabic legal AI — judgment prediction (80% acc, 170+ cases), RAG chatbot, law extraction via FAISS & semantic similarity |
-| 🩺 [Military Medical Exemption RAG](https://github.com/OmarAboalola/Military-Medical-Exemption-RAG) | Arabic RAG system evaluating medical exemption eligibility against official military health regulations |
-| 💬 [ALLaM Modern Chatbot](https://github.com/OmarAboalola/Allam-modern-chatbot) | Local-only desktop chatbot for ALLaM-7B with streaming, multi-user sessions via SQLite — no network required |
-| 📚 [LLM Study Notes](https://github.com/OmarAboalola/hands-on-llms-notes-) | My handwritten + markdown notes working through *Hands-On Large Language Models* |
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarAboalola&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarAboalola&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarAboalola&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarAboalola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAboalola&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAboalola&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00d4ff&height=100&section=footer" width="100%"/>
+
+I'm always open to conversations about **RAG systems, Arabic NLP, or legal/medical AI applications**.
+
+<a href="https://www.linkedin.com/in/omar-aboalola/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Oe.aboalola@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+
 </div>
