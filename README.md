@@ -29,8 +29,7 @@ research:  Published @ AMLTA 2025 (Springer)
             System for Egyptian Criminal Law"
 location:  Giza, Egypt 🇪🇬
 teaching:  Python · Java · ML — 70+ students (Coach Academy, Udacity, iSchool)
-currently: Building RAG pipelines that make Arabic legal & medical
-           documents searchable, structured, and explainable
+currently: Interested in LLMS & Building RAG pipelines , Chatbots
 ```
 
 <br/>
