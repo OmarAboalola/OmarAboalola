@@ -87,7 +87,7 @@ Working handwritten and Markdown notes from *Hands-On Large Language Models*.
 </td>
 <td width="50%" valign="top">
 
-**📄 [Monsif Paper — AMLTA 2025](https://github.com/OmarAboalola)**
+**📄 [Monsif Paper — AMLTA 2025](https://link.springer.com/chapter/10.1007/978-3-032-07336-5_3)**
 
 Springer-published research on automated Arabic legal judgment prediction.
 
