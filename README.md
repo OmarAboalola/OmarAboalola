@@ -45,7 +45,7 @@ Full-stack legal AI system for Egyptian criminal law that predicts judgment outc
 
 **Stack:** Python · FastAPI · FAISS · LangChain · Arabic NLP
 
-<a href="https://github.com/OmarAboalola"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-07336-5_3"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 <br/>
 
