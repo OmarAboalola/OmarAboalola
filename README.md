@@ -78,9 +78,9 @@ Fully local desktop chatbot for ALLaM-7B with streaming responses, multi-user se
 <tr>
 <td width="50%" valign="top">
 
-**📚 [Hands-On LLMs — Study Notes](https://github.com/OmarAboalola/hands-on-llms-notes-)**
+**📚 [ai-learning-journal](https://github.com/OmarAboalola/ai-learning-journal)**
 
-Working handwritten and Markdown notes from *Hands-On Large Language Models*.
+My notes and summaries through my AI Journey*.
 
 `Notes` `LLM Theory`
 
