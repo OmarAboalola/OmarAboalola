@@ -80,7 +80,7 @@ Fully local desktop chatbot for ALLaM-7B with streaming responses, multi-user se
 
 **📚 [ai-learning-journal](https://github.com/OmarAboalola/ai-learning-journal)**
 
-My notes and summaries through my AI Journey*.
+My notes and summaries through my AI Journey.
 
 `Notes` `LLM Theory`
 
