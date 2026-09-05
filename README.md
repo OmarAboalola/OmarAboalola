@@ -156,7 +156,7 @@ Springer-published research on automated Arabic legal judgment prediction.
 
 <div align="center">
 
-I'm always open to conversations about **RAG systems, Arabic NLP, and legal or medical AI applications**.
+I'm always open to conversations <3.
 
 <br/><br/>
 
