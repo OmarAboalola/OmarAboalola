@@ -141,8 +141,12 @@ Springer-published research on automated Arabic legal judgment prediction.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarAboalola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAboalola&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarAboalola&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarAboalola&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarAboalola&theme=tokyonight" />
 
 </div>
 
